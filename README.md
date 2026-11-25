@@ -16,15 +16,6 @@ Zaznacz programy, kliknij INSTALUJ — reszta dzieje się sama. StarGate WPI pob
 - **Język systemu** — instalator wybiera polski (lub inny język systemu), jeśli program to obsługuje
 - **Kategorie**: AI, Bezpieczeństwo, Biblioteki Windows, Biuro i PDF, Dyski/pliki/kopie, Edycja audio/wideo, Grafika/foto/3D, Gry i emulatory, Komunikatory i poczta, Nauka/inżynieria/CAD, Narzędzia systemowe, Odtwarzacze multimedialne, Pobieranie/chmura/P2P, Programowanie, Przeglądarki, Sieć i zdalny dostęp, Sterowniki sprzętu, Wirtualizacja i kontenery, Inne
 
-## StarGate Helpdesk
-
-Zdalny pulpit i pomoc techniczna przez szyfrowany tunel NATS:
-- Podgląd i sterowanie ekranem
-- Przesyłanie plików
-- Przekazywanie dźwięku
-- Szyfrowanie end-to-end (AES-256-GCM + ECDSA)
-- Bez otwierania portów — działa za NAT-em
-
 ## Pobieranie
 
 Pobierz najnowszą wersję z zakładki [Releases](../../releases).
